@@ -1,7 +1,7 @@
 ﻿
 namespace P1_Code
 {
-    partial class Form1
+    partial class FormHelloWorld
     {
         /// <summary>
         /// Required designer variable.
@@ -29,37 +29,12 @@ namespace P1_Code
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.SuspendLayout();
-            // 
-            // label1
-            // 
-            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(40, 80);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(448, 91);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Hello World";
-            // 
-            // Form1
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(532, 353);
-            this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "CSC 470 - P1";
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "FormHelloWorld";
         }
 
         #endregion
-
-        private System.Windows.Forms.Label label1;
     }
 }
