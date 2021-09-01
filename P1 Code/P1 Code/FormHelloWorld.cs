@@ -16,5 +16,15 @@ namespace P1_Code
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void FormHelloWorld_Load(object sender, EventArgs e)
+        {
+            this.StartPosition = FormStartPosition.CenterScreen;
+        }
     }
 }
