@@ -7,3 +7,4 @@ C:\Users\sEnsz\source\repos\CSC470-P1-ShawnEnsz\P1 Code\P1 Code\obj\Debug\P1 Cod
 C:\Users\sEnsz\source\repos\CSC470-P1-ShawnEnsz\P1 Code\P1 Code\obj\Debug\P1 Code.csproj.CoreCompileInputs.cache
 C:\Users\sEnsz\source\repos\CSC470-P1-ShawnEnsz\P1 Code\P1 Code\obj\Debug\P1 Code.exe
 C:\Users\sEnsz\source\repos\CSC470-P1-ShawnEnsz\P1 Code\P1 Code\obj\Debug\P1 Code.pdb
+C:\Users\sEnsz\source\repos\CSC470-P1-ShawnEnsz\P1 Code\P1 Code\obj\Debug\P1_Code.FormHelloWorld.resources
